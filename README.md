@@ -1,7 +1,5 @@
-- 👋 你好，我是@yun
-- 🌱 I’m currently learning web开发
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+你好我叫谢长芸 
+我正在学习网页开发
 
 <!---
 xcy2001/xcy2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
