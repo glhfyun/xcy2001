@@ -1,5 +1,4 @@
-你好我叫谢长芸 
-我正在学习网页开发
+学习中！！！
 
 <!---
 xcy2001/xcy2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
